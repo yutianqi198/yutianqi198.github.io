@@ -13,7 +13,7 @@ nav: false  # 在导航栏显示
 nav_order: 1  # 导航栏位置
 ---
 
-Yu Tianqi is currently pursuing a master's degree in Communication at Nanjing University. She enjoys anime and alternative music, is very friendly, but sometimes behaves in an unconventional manner. She is interested in the field of communication sociology and is currently a novice researcher without any outstanding achievements. During the next three years of her master's program, she hopes to focus on a specific group, provide them with sufficient understanding, conduct a solid field investigation, and study diligently while constantly improving. At the same time, she wants to find a job that she likes, can support herself and her family. Finally, she hopes that people can understand each other, communicate rationally, and achieve world peace.
+I am currently pursuing a master's degree in Communication at Nanjing University.I enjoy anime and alternative music and am very friendly. My research focuses on the sociology of knowledge, and I hope to explore the new missions and potential pathways for intellectuals in this era of diverse and contending voices. Over the next three years of my master's program, I aspire to study diligently, grow continuously, and seek to understand myself, understand others, and ultimately gain a deeper understanding of the society we inhabit.
 
 <br>
 
